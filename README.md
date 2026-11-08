@@ -85,3 +85,7 @@ Runoff stays near the 1996–2010 average of about 3.4 inches. Airport rainfall 
 
 
 
+
+<img width="1107" height="837" alt="image" src="https://github.com/user-attachments/assets/65b79771-0cd0-4902-8cc4-594ff07ec0d1" />
+
+
