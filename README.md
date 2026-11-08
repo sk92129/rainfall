@@ -75,3 +75,13 @@ Each row is annual inches. `rainfall_low_95` / `rainfall_high_95` and `runoff_lo
 Rainfall rises by about 0.18 inches per year over 1948–2025. That slope is detectable, and it still leaves most of the year-to-year swing unexplained (R² about 0.11, RMSE about 12 inches). A single-year rainfall forecast is close to the long-term level; the prediction interval is the number to use.
 
 Runoff stays near the 1996–2010 average of about 3.4 inches. Airport rainfall and the USGS runoff series barely move together (R² about 0.05), so treat the runoff interval, not the point value, as the result.
+
+
+
+
+
+
+<img width="753" height="357" alt="image" src="https://github.com/user-attachments/assets/ad24b6b7-6fee-4b8e-90f6-366877d0f6c1" />
+
+
+
