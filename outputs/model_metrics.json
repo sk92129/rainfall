@@ -1,0 +1,39 @@
+{
+  "station_id": "USW00012839",
+  "station_name": "MIAMI INTERNATIONAL AIRPORT, FL US",
+  "rainfall_years": [
+    1948,
+    2025
+  ],
+  "rainfall_equation": "rainfall_in = -291.870248 + 0.178141 * year",
+  "rainfall_r2": 0.1077228907492983,
+  "rainfall_rmse_in": 11.543246805247447,
+  "rainfall_sigma_in": 11.694145324935894,
+  "rainfall_slope_p_value": 0.0033503726947611066,
+  "rainfall_n": 78,
+  "runoff_equation": "runoff_in = 2.277792 + 0.017859 * rainfall_in",
+  "runoff_r2": 0.04715791842377115,
+  "runoff_rmse_in": 0.4759898808502404,
+  "runoff_slope_p_value": 0.4369024356684698,
+  "runoff_sigma_in": 0.5112951503536719,
+  "runoff_n": 15,
+  "runoff_training_years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "runoff_source": "USGS SIR 2014-5162 figure 7, directly connected impervious-area surface runoff, inches over the onshore Miami-Dade study area",
+  "note": "Rainfall is the NOAA annual total at Miami International Airport. Runoff is predicted from rainfall using a line fit to USGS Miami-Dade surface-runoff estimates for 1996-2010. The 95% ranges are prediction intervals for a new year, not confidence intervals for the mean trend."
+}
